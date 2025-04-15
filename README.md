@@ -1,5 +1,3 @@
-![Imagen de WhatsApp 2025-04-15 a las 14 51 59_f512c24c](https://github.com/user-attachments/assets/48e4d68b-6247-4f02-a165-a8e8468196d3)# 📝 ToDoApp – Lista de Tareas con React Native
-
 Este proyecto es una aplicación sencilla de lista de tareas (To-Do List) desarrollada con **React Native** utilizando **Expo**. Fue creado como ejemplo práctico para el Trabajo Práctico N° 3 de la materia *Computación Móvil Basada en Servicios*.
 
 ## 🚀 Funcionalidades
